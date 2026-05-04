@@ -77,6 +77,9 @@ frida -H 127.0.0.1:PORT -f com.target.app -l SSLSlayer_v3.js
 ```
 
 ---
+## In action
+
+<img width="1897" height="734" alt="image" src="https://github.com/user-attachments/assets/61c3efe1-37c0-485d-8dc1-cad8016e4e64" />
 
 
 ---
